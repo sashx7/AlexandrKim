@@ -22,7 +22,7 @@
 - *👨‍🎓 Завершил курс JS 2.0*  
   
 
-- *🔭 Поступил в Школу IT 21 от Сбер банка*  
+- *🔭 Студент школы IT 21 от Сбер банка*  
   
 
 - *📫 Как связаться со мной:*  [![Telegram Badge](https://img.shields.io/badge/-kima-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/calllkim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
