@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 Обо мне:  
-Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался декабря 2023г. 
+Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Больше всего меня зацепила веб разработка!  
 В настоящий момент на стадии обучения!  
   
@@ -16,14 +16,11 @@
 
 
   
-- *⚡ Прохожу обучение у Fronted разработчика [bekliev](https://github.com/bekliev)*  
-  
 
 - *👨‍🎓 Завершил курс JS 2.0*  
   
 
-- *🔭 Студент школы [School 21](https://21-school.uz/ru/) от Сбер банка*  
-  
+ 
 
 - *📫 Как связаться со мной:*  [![Telegram Badge](https://img.shields.io/badge/-kima-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/calllkim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
   
